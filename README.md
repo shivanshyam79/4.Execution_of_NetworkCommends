@@ -1,6 +1,6 @@
 # 4.Execution_of_NetworkCommands
 ### NAME: SHYAM R
-### REG.NO:212223040200
+### REG.NO: 212223040200
 
 ## AIM :Use of Network commands in Real Time environment
 ## Software : Command Prompt And Network Protocol Analyzer
